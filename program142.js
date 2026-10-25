@@ -1,0 +1,15 @@
+function main()
+{
+    let iValue = 11
+    if (iValue % 2 == 0)
+    {
+        console.log("it is even number"); 
+    }
+    else
+    {
+        console.log("it is odd number");
+    }
+}
+
+main()
+
